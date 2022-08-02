@@ -1,4 +1,2 @@
-#Lista zadań do wykonania
-Prosta aplikacja do gry w quiz
-##Właściwości
-*Wykorzystanie Spring, Bootstrap, Java
+# To test, open index.html in IE, Firefox or Safari
+## When OFFLINE, it will not work in Chrome due to security restrictions. It will work in Chrome when online
